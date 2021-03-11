@@ -1,4 +1,4 @@
-# **"[crypto-chart](https://andreyvolkov88.github.io/crypto-graph/)"**
+# "[crypto-chart](https://andreyvolkov88.github.io/crypto-graph/)"
 
 ## Project setup
 ```
